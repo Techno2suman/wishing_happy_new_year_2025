@@ -17,8 +17,8 @@ JavaScript
 Clone the repository:
 bash
 Copy code
-**git clone https://github.com/Techno2suman/Happy-New-Year-2025.git**  
+**git clone https://github.com/Techno2suman/wishing_happy_new_year_2025**
 Open index.html in your browser to experience the celebration.
 
 Credits
-Designed and developed by Suman Anand.
+Designed and developed by **Suman Anand**.
